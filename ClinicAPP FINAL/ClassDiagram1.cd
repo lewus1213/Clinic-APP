@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClinicAPP_FINAL.adddoctor" Collapsed="true">
+    <Position X="2.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8iAAAIACASAAABCaEACACABSIIQJgA0AEADIAAAAgoA=</HashCode>
+      <FileName>adddoctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.addpatient" Collapsed="true">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8CAAAIACCSAAABCSEACAAABCIKQJAAAAEEAOAAEQgIA=</HashCode>
+      <FileName>addpatient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.change_pass" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAAAAAACIAABAkAACAAAAGAAAIAAAAEEAAAEAEAAA=</HashCode>
+      <FileName>change_pass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.check_veri" Collapsed="true">
+    <Position X="26.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>check_veri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.connection" Collapsed="true">
+    <Position X="26.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.connection_config" Collapsed="true">
+    <Position X="26.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>connection_config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.doctor" Collapsed="true">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAYAAAAAGAAAAAQAAA=</HashCode>
+      <FileName>doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.home" Collapsed="true">
+    <Position X="10.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEwAAAhICCCABQCAECXBAACAGw+ADoAEIQeAQBAAAA=</HashCode>
+      <FileName>home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.kart" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAgAAAAACACABAAAACAAABSoF0IAAACEEQIAAAQAAA=</HashCode>
+      <FileName>kart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.login" Collapsed="true">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAGAAABAAAACAAAACAAQYAAgAECAIAABQAIA=</HashCode>
+      <FileName>login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.login_session" Collapsed="true">
+    <Position X="8.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAECBEAAAAEAAAAAAAAAAAAAgE=</HashCode>
+      <FileName>login_session.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.mail_valid" Collapsed="true">
+    <Position X="26.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>mail_valid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.modifydoctor" Collapsed="true">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cCAAAIACASAAABCaEACAAABSIMgoAAAAEEAMAAgAgoA=</HashCode>
+      <FileName>modifydoctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.modifypatient" Collapsed="true">
+    <Position X="13.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8SAAAIACASEAABKaEACAAABTMMgoAAAAEEAMAAAAAoA=</HashCode>
+      <FileName>modifypatient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.password_str" Collapsed="true">
+    <Position X="26.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>password_str.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.patient" Collapsed="true">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAAAAAAACAAAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.print_rec" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>print_rec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.pswd" Collapsed="true">
+    <Position X="26.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pswd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.register" Collapsed="true">
+    <Position X="6.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADgAAAMAQCAgIBAXkECAkIFDBMw74MDpEAAAcDhwAAA=</HashCode>
+      <FileName>register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.roles" Collapsed="true">
+    <Position X="12.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>roles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.start_visit" Collapsed="true">
+    <Position X="12.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+SAAQAAAASASABCCMACBAABCIAx8AAIAEHAMQQAAAJA=</HashCode>
+      <FileName>start_visit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.user" Collapsed="true">
+    <Position X="15" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UCAAAAAAASAAABCAAACAAAJSIAQYgAACkOgMAAAQAIA=</HashCode>
+      <FileName>user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClinicAPP_FINAL.veri" Collapsed="true">
+    <Position X="18.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAAABAAAACAAABCIAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>veri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
